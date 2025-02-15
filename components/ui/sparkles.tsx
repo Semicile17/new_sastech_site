@@ -64,7 +64,6 @@ export function SparklesCore({
             number: {
               density: {
                 enable: true,
-                area: particleDensity,
               },
               value: 80,
             },
